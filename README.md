@@ -1,2 +1,2 @@
 # master_kschool
-All master exercises
+All masters exercises repository
